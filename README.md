@@ -16,7 +16,7 @@ It's lightweight, runs entirely in the browser, and requires no server setup.
 ---
 
 # Demo
-You can view a live demo [here](https://chandrueswaran.github.io/Quizz_Program/).
+You can view a live demo [here](https://chandrueswaran.github.io/Password_generator/).
 
 ---
 
