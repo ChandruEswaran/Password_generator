@@ -1,6 +1,6 @@
 body {
   font-family: Arial, sans-serif;
-  background: transparent !important;
+  background: url('World.jpg') !important;
   display: flex;
   justify-content: center;
   align-items: center;
