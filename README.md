@@ -4,7 +4,7 @@ It's lightweight, runs entirely in the browser, and requires no server setup.
 
 ---
 
-# Features
+## Features
 
 - Customizable Password Length: Generate passwords from 4 to 32 characters.
 - Character Options: Include or exclude uppercase letters, lowercase letters, numbers, and special symbols.
@@ -15,8 +15,14 @@ It's lightweight, runs entirely in the browser, and requires no server setup.
 
 ---
 
-# Demo
+## Demo
 You can view a live demo [here](https://chandrueswaran.github.io/Password_generator/).
+
+---
+
+## 📸 Screenshots  
+ 
+![ScreenShot - Demo](pass_screen.png)
 
 ---
 
