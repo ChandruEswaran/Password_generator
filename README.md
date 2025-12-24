@@ -38,4 +38,4 @@ Contributions are welcome! If you'd like to improve the project:
 ---
 
 # Contact
-If you have questions or suggestions, feel free to open an issue or reach out via email at [chandrudakshina@gmail.com](mailto:chandrudakshina@gmail.com)
+If you have questions or suggestions, feel free to open an issue or reach out via email at [chandrudakshina@gmail.com](mailto:chandrueswaran.d@gmail.com)
